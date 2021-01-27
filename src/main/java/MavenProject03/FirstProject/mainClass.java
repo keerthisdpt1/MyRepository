@@ -9,6 +9,7 @@ public class mainClass {
 		System.out.println("pushing from my project 3");
 		System.out.println("pushing from my project 4");
 		System.out.println("pushing from my project 5");
+		System.out.println("pushing from my project 6");
 	}
 
 }
